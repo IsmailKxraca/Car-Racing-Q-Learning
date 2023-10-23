@@ -1,3 +1,3 @@
-# Car-Racing-Q-Learning
+# Frozenlake-Q-learning
 
-In this project i will use Q-Learning to train a Car-Racing AI in the OpenAi-Gymnasium Environment "Car-Racing"
+In this project i will use Q-Learning to train an AI in the OpenAi-Gymnasium Environment "Frozen-Lake"
